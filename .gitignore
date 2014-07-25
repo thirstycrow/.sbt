@@ -1,0 +1,7 @@
+boot
+target
+staging
+credentials/*
+*.private.sbt
+netbeans.sbt
+*.bak
